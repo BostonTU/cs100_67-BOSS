@@ -1,1 +1,6 @@
 This is the first line of my file
+
+Hi
+
+
+345
